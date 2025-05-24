@@ -1,8 +1,11 @@
 # MISA-Hacking Spring 2025
 
-<img width="473" alt="image" src="https://github.com/user-attachments/assets/03680168-b730-4ee7-bf32-eac4442a651c" />
-
-<img width="477" alt="image" src="https://github.com/user-attachments/assets/3d489b87-bd6a-4f5e-ac14-c6b750a7f66f" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/03680168-b730-4ee7-bf32-eac4442a651c" width="473" alt="Image 1" /></td>
+    <td><img src="https://github.com/user-attachments/assets/3d489b87-bd6a-4f5e-ac14-c6b750a7f66f" width="477" alt="Image 2" /></td>
+  </tr>
+</table>
 
 
 
